@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.carousel-item{
+	height: 32rem;
+}
+.nav-logo {
+    width: 50px;
+	
+}
+#navbarNav{
+    display:flex;
+    justify-content:end;
+}
+
+.carousel-control-next{
+	color:black;
+	
+}
+.quick-nav-container{
+    background-color:black;
+    color:white;
+    width:74.375vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.dropdown-item{
+	clor:black;
+	
+	
+	
+}
+
+.dropdown-menu li {
+    position: relative;
+    }
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 140%;
+    top: -7px;
+    }
+    .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+    }
+    .dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+    }
+
+.container-fluid{
+	background-color:white;
+	
+}
+
+.nav-item{
+	color:black;
+	
+}
+	
+	
